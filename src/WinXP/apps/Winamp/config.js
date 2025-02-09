@@ -5,11 +5,11 @@ const album = 'netBloc Vol. 24: tiuqottigeloot';
 export const initialTracks = [
   {
     url:
-      'https://raw.githubusercontent.com/captbaritone/webamp-music/4b556fbf/Diablo_Swing_Orchestra_-_01_-_Heroines.mp3',
-    duration: 322.612245,
+      'https://github.com/nelsontineojr/nostalgia-files/blob/main/01%20-%20Nostalgia%20-%20Freestyle%20001.mp3?raw=true',
+    duration: 140.41,
     metaData: {
-      title: 'Heroines',
-      artist: 'Diablo Swing Orchestra',
+      title: 'Freestyle 001',
+      artist: 'Nostalgia',
       album,
     },
   },
