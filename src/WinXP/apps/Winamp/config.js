@@ -1,12 +1,12 @@
 // from Webamp demo
 
-const album = 'netBloc Vol. 24: tiuqottigeloot';
+const album = 'Freestyles: Nostalgia';
 
 export const initialTracks = [
   {
     url:
-      'https://github.com/nelsontineojr/nostalgia-files/blob/main/01%20-%20Nostalgia%20-%20Freestyle%20001.mp3?raw=true',
-    duration: 140.41,
+      'https://raw.githubusercontent.com/nelsontineojr/nostalgia-files/refs/heads/main/01%20-%20Nostalgia%20-%20Freestyle%20001.mp3',
+    duration: 142,
     metaData: {
       title: 'Freestyle 001',
       artist: 'Nostalgia',
@@ -15,111 +15,111 @@ export const initialTracks = [
   },
   {
     url:
-      'https://raw.githubusercontent.com/captbaritone/webamp-music/4b556fbf/Eclectek_-_02_-_We_Are_Going_To_Eclecfunk_Your_Ass.mp3',
-    duration: 190.093061,
+      'https://raw.githubusercontent.com/nelsontineojr/nostalgia-files/refs/heads/main/02%20-%20Nostalgia%20-%20Freestyle%20002.mp3',
+    duration: 133,
     metaData: {
-      title: 'We Are Going To Eclecfunk Your Ass',
-      artist: 'Eclectek',
+      title: 'Freestyle 002',
+      artist: 'Nostalgia',
       album,
     },
   },
   {
     url:
-      'https://raw.githubusercontent.com/captbaritone/webamp-music/4b556fbf/Auto-Pilot_-_03_-_Seventeen.mp3',
-    duration: 214.622041,
+      'https://raw.githubusercontent.com/nelsontineojr/nostalgia-files/refs/heads/main/03%20-%20Nostalgia%20-%20Freestyle%20003.mp3',
+    duration: 126,
     metaData: {
-      title: 'Seventeen',
-      artist: 'Auto-Pilot',
+      title: 'Freestyle 003',
+      artist: 'Nostalgia',
       album,
     },
   },
   {
     url:
-      'https://raw.githubusercontent.com/captbaritone/webamp-music/4b556fbf/Muha_-_04_-_Microphone.mp3',
-    duration: 181.838367,
+      'https://raw.githubusercontent.com/nelsontineojr/nostalgia-files/refs/heads/main/04%20-%20Nostalgia%20-%20Freestyle%20004.mp3',
+    duration: 245,
     metaData: {
-      title: 'Microphone',
-      artist: 'Muha',
+      title: 'Freestyle 004',
+      artist: 'Nostalgia',
       album,
     },
   },
   {
     url:
-      'https://raw.githubusercontent.com/captbaritone/webamp-music/4b556fbf/Just_Plain_Ant_-_05_-_Stumble.mp3',
-    duration: 86.047347,
+      'https://raw.githubusercontent.com/nelsontineojr/nostalgia-files/refs/heads/main/05%20-%20Nostalgia%20-%20Freestyle%20005.mp3',
+    duration: 151,
     metaData: {
-      title: 'Stumble',
-      artist: 'Just Plain Ant',
+      title: 'Freestyle 005',
+      artist: 'Nostalgia',
       album,
     },
   },
   {
     url:
-      'https://raw.githubusercontent.com/captbaritone/webamp-music/4b556fbf/Sleaze_-_06_-_God_Damn.mp3',
-    duration: 226.795102,
+      'https://raw.githubusercontent.com/nelsontineojr/nostalgia-files/refs/heads/main/06%20-%20Nostalgia%20-%20Freestyle%20006.mp3',
+    duration: 183,
     metaData: {
-      title: 'God Damn',
-      artist: 'Sleaze',
+      title: 'Freestyle 006',
+      artist: 'Nostalgia',
       album,
     },
   },
   {
     url:
-      'https://raw.githubusercontent.com/captbaritone/webamp-music/4b556fbf/Juanitos_-_07_-_Hola_Hola_Bossa_Nova.mp3',
-    duration: 207.072653,
+      'https://raw.githubusercontent.com/nelsontineojr/nostalgia-files/refs/heads/main/07%20-%20Nostalgia%20-%20Freestyle%20007.mp3',
+    duration: 143,
     metaData: {
-      title: 'Hola Hola Bossa Nova',
-      artist: 'Juanitos',
+      title: 'Freestyle 007',
+      artist: 'Nostalgia',
       album,
     },
   },
   {
     url:
-      'https://raw.githubusercontent.com/captbaritone/webamp-music/4b556fbf/Entertainment_for_the_Braindead_-_08_-_Resolutions_Chris_Summer_Remix.mp3',
-    duration: 314.331429,
+      'https://raw.githubusercontent.com/nelsontineojr/nostalgia-files/refs/heads/main/08%20-%20Nostalgia%20-%20Freestyle%20008.mp3',
+    duration: 210,
     metaData: {
-      title: 'Resolutions (Chris Summer Remix)',
-      artist: 'Entertainment for the Braindead',
+      title: 'Freestyle 008',
+      artist: 'Nostalgia',
       album,
     },
   },
   {
     url:
-      'https://raw.githubusercontent.com/captbaritone/webamp-music/4b556fbf/Nobara_Hayakawa_-_09_-_Trail.mp3',
-    duration: 204.042449,
+      'https://raw.githubusercontent.com/nelsontineojr/nostalgia-files/refs/heads/main/09%20-%20Nostalgia%20-%20Freestyle%20009.mp3',
+    duration: 148,
     metaData: {
-      title: 'Trail',
-      artist: 'Nobara Hayakawa',
+      title: 'Freestyle 009',
+      artist: 'Nostalgia',
       album,
     },
   },
   {
     url:
-      'https://raw.githubusercontent.com/captbaritone/webamp-music/4b556fbf/Paper_Navy_-_10_-_Tongue_Tied.mp3',
-    duration: 201.116735,
+      'https://raw.githubusercontent.com/nelsontineojr/nostalgia-files/refs/heads/main/10%20-%20Nostalgia%20-%20Freestyle%20010.mp3',
+    duration: 193,
     metaData: {
-      title: 'Tongue Tied',
-      artist: 'Paper Navy',
+      title: 'Freestyle 010',
+      artist: 'Nostalgia',
       album,
     },
   },
   {
     url:
-      'https://raw.githubusercontent.com/captbaritone/webamp-music/4b556fbf/60_Tigres_-_11_-_Garage.mp3',
-    duration: 245.394286,
+      'https://raw.githubusercontent.com/nelsontineojr/nostalgia-files/refs/heads/main/11%20-%20Nostalgia%20-%20Freestyle%20011.mp3',
+    duration: 245,
     metaData: {
-      title: 'Garage',
-      artist: '60 Tigres',
+      title: 'Freestyle 011',
+      artist: 'Nostalgia',
       album,
     },
   },
   {
     url:
-      'https://raw.githubusercontent.com/captbaritone/webamp-music/4b556fbf/CM_aka_Creative_-_12_-_The_Cycle_Featuring_Mista_Mista.mp3',
-    duration: 221.44,
+      'https://raw.githubusercontent.com/nelsontineojr/nostalgia-files/refs/heads/main/12%20-%20Nostalgia%20-%20Freestyle%20012.mp3',
+    duration: 138,
     metaData: {
-      title: 'The Cycle (Featuring Mista Mista)',
-      artist: 'CM aka Creative',
+      title: 'Freestyle 012',
+      artist: 'Nostalgia',
       album,
     },
   },
